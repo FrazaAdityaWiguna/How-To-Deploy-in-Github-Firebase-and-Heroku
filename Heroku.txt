@@ -1,0 +1,6 @@
+HEROKU
+git init
+heroku git:remote -a namaproject atau heroku apps:create namaproject
+git add .
+git commit -am "first liff commit"
+git push heroku master
